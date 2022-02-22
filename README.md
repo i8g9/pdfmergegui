@@ -33,10 +33,7 @@ Open with, Python3.9
 
 ## Authors
 
-Contributors names and contact info
-
-Immanuel A
-[@Imazaryag]
+Immanuel A. G. - [i8g9](https://github.com/i8g9/)
 
 ## Version History
 
